@@ -26,7 +26,8 @@ To instantiate the app config in our app, we need to add the following sections
 </appSettings>
 ```
 The connection string is the endpoint that we can find in Access settings when we create our configuration in Azure:
-SLIKA1
+![image](https://github.com/amelroko/AzureAppConfigruator/assets/152623223/3e7059dc-6a61-4304-8615-513161076e07)
+
 
 ## How does this work
 
